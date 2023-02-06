@@ -5,14 +5,14 @@
 
 
 ### I have technical experience and interest in:
-
+* Statistics
 * Machine Learning
 * Deep Learning
 * Computer vision 
 * Natural Language Processing 
 
 
-👉[My Online Portfolio](https://https://github.com/Nplite/)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
