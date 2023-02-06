@@ -13,12 +13,6 @@
 
 
 
-
-  <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-
-
-
 - 🔭 I’m currently working on **OpenCv** projects
 
 - 🌱  I’m currently Boosting my knowledge in Data Science
@@ -26,6 +20,14 @@
 - 💬 Ask me about - DataScience, ML, DL, CV, NLP
  
 - 📄 Know about my experiences [https://drive.google.com/file/d/10G1GU4I6cMiwpeQAqOXq1BlhgQQFo7i1/view?usp=share_link])
+
+
+
+  <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+
+
 
 
 
