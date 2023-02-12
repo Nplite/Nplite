@@ -5,6 +5,7 @@
 
 
 ### I have technical experience and interest in:
+* Python
 * Statistics
 * Machine Learning
 * Deep Learning
