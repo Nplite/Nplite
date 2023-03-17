@@ -20,7 +20,7 @@
 
 - 💬 Ask me about - DataScience, ML, DL, CV, NLP
  
-- 📄 Know about my experiences [[https://drive.google.com/file/d/10G1GU4I6cMiwpeQAqOXq1BlhgQQFo7i1/view?usp=share_link](https://drive.google.com/file/d/1UqSqjwOh_IqsRUqbcrHtnlA5LBC5cwZV/view?usp=share_link)])
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rQLfomd5-B3tTQvGpvksdRsshpER-ZKL/view](https://drive.google.com/file/d/1UqSqjwOh_IqsRUqbcrHtnlA5LBC5cwZV/view?usp=share_link)])
 
 
 
