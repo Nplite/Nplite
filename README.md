@@ -10,17 +10,18 @@
 * Machine Learning
 * Deep Learning
 * Computer vision 
-* Natural Language Processing 
+* Natural Language Processing
+* Generative AI
 
 
 
-- 🔭 I’m currently working on **OpenCv** projects
+- 🔭 I’m currently working on **OpenCv** and LLM projects
 
-- 🌱  I’m currently Boosting my knowledge in Data Science
+- 🌱  I’m currently Boosting my knowledge in Generative AI and LLM
 
-- 💬 Ask me about - DataScience, ML, DL, CV, NLP
+- 💬 Ask me about - DataScience, ML, DL, CV, NLP, LLM, Vectore Database.
  
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1rQLfomd5-B3tTQvGpvksdRsshpER-ZKL/view](https://drive.google.com/file/d/1rQLfomd5-B3tTQvGpvksdRsshpER-ZKL/view)])
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1rQLfomd5-B3tTQvGpvksdRsshpER-ZKL/view](https://drive.google.com/file/d/1FPUo32rZoiYGQglOqTuzU7hWQOA5-AMF/view?usp=drive_link)])
 
 
 
