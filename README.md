@@ -21,7 +21,7 @@
 
 - 💬 Ask me about - DataScience, ML, DL, CV, NLP, LLM, Vectore Database.
  
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1rQLfomd5-B3tTQvGpvksdRsshpER-ZKL/view](https://drive.google.com/file/d/1FPUo32rZoiYGQglOqTuzU7hWQOA5-AMF/view?usp=drive_link)])
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1rQLfomd5-B3tTQvGpvksdRsshpER-ZKL/view](https://drive.google.com/file/d/1rhd-yZShM43vpuXW-JGJlXxmOHYDAt5Q/view?usp=drive_link)])
 
 
 
