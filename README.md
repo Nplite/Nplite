@@ -15,11 +15,11 @@
 
 
 
-- 🔭 I’m currently working on **OpenCv** and LLM projects
+- 🔭 I’m currently working on **Advanced Computer Vision and AgenticAI projects ** 
 
-- 🌱  I’m currently Boosting my knowledge in Generative AI and LLM
+- 🌱  I’m currently Boosting my knowledge in Generative AI 
 
-- 💬 Ask me about - DataScience, ML, DL, CV, NLP, LLM, Vectore Database.
+- 💬 Ask me about - DataScience, ML, DL, CV, NLP, GenAI, LLM, Vectore Database.
  
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1rQLfomd5-B3tTQvGpvksdRsshpER-ZKL/view](https://drive.google.com/file/d/1rhd-yZShM43vpuXW-JGJlXxmOHYDAt5Q/view?usp=drive_link)])
 
